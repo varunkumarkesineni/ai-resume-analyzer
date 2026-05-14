@@ -1,38 +1,135 @@
-# Setup Guide — AI Resume Analyzer v2
+# Setup Guide — AI Resume Analyzer & Intelligent Talent Matching Platform
 
-## Step 1 — Install dependencies
+## Step 1 — Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-## Step 2 — Run the pipeline
+Install all required Python libraries including NLP, Machine Learning, database, and GUI dependencies.
+
+---
+
+## Step 2 — Execute the Processing Pipeline
+
 ```bash
 python notebooks/run_all.py
 ```
 
-## Step 3 — Launch the GUI
+This command performs the complete backend workflow:
+
+- Data preprocessing
+- Resume text extraction
+- TF-IDF vectorization
+- Resume-job similarity matching
+- Candidate scoring and ranking
+- Database generation
+- Analytics preparation
+
+---
+
+## Step 3 — Launch the Recruitment Dashboard
+
 ```bash
 python gui_app.py
 ```
 
-## Step 4 — Use the GUI
-1. Analyzer tab → Browse & upload your resume (PDF/DOCX/TXT)
-2. Click "Analyze Resume" → See match scores for 5 job roles
-3. AI Rewrite tab → Paste API key → Select target role → Generate
-4. SQL Queries tab → Run preset queries against the database
-5. Rankings tab → View all candidates ranked by score
+Starts the Tkinter-based desktop application for resume analysis and recruiter interaction.
 
-## Step 5 — Get Claude API key (for AI Rewrite feature)
-1. Go to: https://console.anthropic.com
-2. Sign up (free) → API Keys → Create Key
-3. Copy the key (starts with sk-ant-...)
-4. Paste it in the GUI → AI Rewrite tab → API Key field
+---
 
-## Troubleshooting
-| Error | Fix |
+## Step 4 — Application Workflow
+
+### Resume Analyzer Module
+1. Upload resumes in PDF, DOCX, or TXT format
+2. Click **Analyze Resume**
+3. View AI-generated match scores for multiple job roles
+4. Compare candidate rankings based on similarity percentage
+
+### AI Resume Optimization Module
+1. Paste your Anthropic Claude API key
+2. Select the target job role
+3. Generate an AI-enhanced professional resume
+
+### SQL Analytics Module
+1. Execute predefined SQL queries
+2. Analyze candidate datasets and ranking metrics
+
+### Candidate Rankings Dashboard
+1. View all processed candidates
+2. Sort applicants based on fit scores and relevance
+
+---
+
+## Step 5 — Generate Anthropic Claude API Key
+
+### Create API Access
+
+1. Visit:
+   https://console.anthropic.com
+
+2. Sign up or log in to your Anthropic account
+
+3. Navigate to:
+   API Keys → Create Key
+
+4. Copy the generated API key
+   Example:
+   ```bash
+   sk-ant-xxxxxxxxxxxxxxxx
+   ```
+
+5. Paste the key into:
+   GUI → AI Rewrite Module → API Key Field
+
+---
+
+## Troubleshooting Guide
+
+| Issue | Solution |
 |---|---|
 | ModuleNotFoundError | pip install -r requirements.txt |
-| No module nltk | pip install nltk |
-| PDF not reading | pip install PyPDF2 |
-| DOCX not reading | pip install python-docx |
-| API error | Check your Anthropic API key |
+| Missing NLTK package | pip install nltk |
+| PDF extraction issue | pip install PyPDF2 |
+| DOCX extraction issue | pip install python-docx |
+| Claude API connection error | Verify Anthropic API key |
+| GUI not opening | Check Tkinter installation |
+| SQLite database error | Re-run run_all.py pipeline |
+
+---
+
+## Recommended Python Version
+
+```bash
+Python 3.10+
+```
+
+---
+
+## Recommended Environment Setup
+
+```bash
+python -m venv venv
+```
+
+Activate virtual environment:
+
+### Windows
+```bash
+venv\Scripts\activate
+```
+
+### macOS/Linux
+```bash
+source venv/bin/activate
+```
+
+---
+
+## Final Execution Commands
+
+```bash
+pip install -r requirements.txt
+python notebooks/run_all.py
+python gui_app.py
+```
