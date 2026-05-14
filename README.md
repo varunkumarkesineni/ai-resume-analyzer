@@ -1,7 +1,7 @@
 # AI Resume Analyzer & Job Match System
 
 > NLP-powered resume screening | Python · TF-IDF · scikit-learn · SQLite · Claude AI · Tkinter GUI
-> Built by: Varun Kumar Kesineni | B.Tech CSE | CMR College of Engineering & Technology, Hyderabad
+
 
 ## Overview
 
