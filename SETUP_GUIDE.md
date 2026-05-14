@@ -63,8 +63,6 @@ Starts the Tkinter-based desktop application for resume analysis and recruiter i
 
 ## Step 5 — Generate Anthropic Claude API Key
 
-### Create API Access
-
 1. Visit:
    https://console.anthropic.com
 
@@ -74,10 +72,6 @@ Starts the Tkinter-based desktop application for resume analysis and recruiter i
    API Keys → Create Key
 
 4. Copy the generated API key
-   Example:
-   ```bash
-   sk-ant-xxxxxxxxxxxxxxxx
-   ```
 
 5. Paste the key into:
    GUI → AI Rewrite Module → API Key Field
