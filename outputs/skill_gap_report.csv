@@ -1,0 +1,161 @@
+candidate_name,job_title,skill,has_skill,gap
+Arjun Sharma,Python Developer,Python,True,False
+Arjun Sharma,Python Developer,SQL,False,True
+Arjun Sharma,Python Developer,Power BI,False,True
+Arjun Sharma,Python Developer,Machine Learning,True,False
+Arjun Sharma,Python Developer,NLP,True,False
+Arjun Sharma,Python Developer,AWS,True,False
+Arjun Sharma,Python Developer,Tableau,True,False
+Arjun Sharma,Python Developer,Excel,False,True
+Arjun Sharma,Python Developer,Git,False,True
+Arjun Sharma,Python Developer,ETL,False,True
+Priya Reddy,Data Analyst,Python,True,False
+Priya Reddy,Data Analyst,SQL,False,True
+Priya Reddy,Data Analyst,Power BI,False,True
+Priya Reddy,Data Analyst,Machine Learning,True,False
+Priya Reddy,Data Analyst,NLP,True,False
+Priya Reddy,Data Analyst,AWS,True,False
+Priya Reddy,Data Analyst,Tableau,True,False
+Priya Reddy,Data Analyst,Excel,True,False
+Priya Reddy,Data Analyst,Git,True,False
+Priya Reddy,Data Analyst,ETL,True,False
+Rahul Verma,Python Developer,Python,False,True
+Rahul Verma,Python Developer,SQL,True,False
+Rahul Verma,Python Developer,Power BI,True,False
+Rahul Verma,Python Developer,Machine Learning,True,False
+Rahul Verma,Python Developer,NLP,True,False
+Rahul Verma,Python Developer,AWS,False,True
+Rahul Verma,Python Developer,Tableau,True,False
+Rahul Verma,Python Developer,Excel,True,False
+Rahul Verma,Python Developer,Git,True,False
+Rahul Verma,Python Developer,ETL,True,False
+Sneha Patel,ML Engineer,Python,False,True
+Sneha Patel,ML Engineer,SQL,True,False
+Sneha Patel,ML Engineer,Power BI,True,False
+Sneha Patel,ML Engineer,Machine Learning,False,True
+Sneha Patel,ML Engineer,NLP,False,True
+Sneha Patel,ML Engineer,AWS,False,True
+Sneha Patel,ML Engineer,Tableau,True,False
+Sneha Patel,ML Engineer,Excel,True,False
+Sneha Patel,ML Engineer,Git,False,True
+Sneha Patel,ML Engineer,ETL,True,False
+Karthik Nair,Data Science Intern,Python,True,False
+Karthik Nair,Data Science Intern,SQL,True,False
+Karthik Nair,Data Science Intern,Power BI,True,False
+Karthik Nair,Data Science Intern,Machine Learning,False,True
+Karthik Nair,Data Science Intern,NLP,True,False
+Karthik Nair,Data Science Intern,AWS,False,True
+Karthik Nair,Data Science Intern,Tableau,True,False
+Karthik Nair,Data Science Intern,Excel,True,False
+Karthik Nair,Data Science Intern,Git,True,False
+Karthik Nair,Data Science Intern,ETL,True,False
+Divya Menon,Python Developer,Python,False,True
+Divya Menon,Python Developer,SQL,False,True
+Divya Menon,Python Developer,Power BI,False,True
+Divya Menon,Python Developer,Machine Learning,False,True
+Divya Menon,Python Developer,NLP,True,False
+Divya Menon,Python Developer,AWS,False,True
+Divya Menon,Python Developer,Tableau,True,False
+Divya Menon,Python Developer,Excel,True,False
+Divya Menon,Python Developer,Git,True,False
+Divya Menon,Python Developer,ETL,True,False
+Aditya Kumar,Data Analyst,Python,True,False
+Aditya Kumar,Data Analyst,SQL,True,False
+Aditya Kumar,Data Analyst,Power BI,False,True
+Aditya Kumar,Data Analyst,Machine Learning,True,False
+Aditya Kumar,Data Analyst,NLP,True,False
+Aditya Kumar,Data Analyst,AWS,True,False
+Aditya Kumar,Data Analyst,Tableau,True,False
+Aditya Kumar,Data Analyst,Excel,False,True
+Aditya Kumar,Data Analyst,Git,True,False
+Aditya Kumar,Data Analyst,ETL,False,True
+Aditya Kumar,BI Developer,Python,False,True
+Aditya Kumar,BI Developer,SQL,True,False
+Aditya Kumar,BI Developer,Power BI,True,False
+Aditya Kumar,BI Developer,Machine Learning,False,True
+Aditya Kumar,BI Developer,NLP,False,True
+Aditya Kumar,BI Developer,AWS,False,True
+Aditya Kumar,BI Developer,Tableau,False,True
+Aditya Kumar,BI Developer,Excel,True,False
+Aditya Kumar,BI Developer,Git,True,False
+Aditya Kumar,BI Developer,ETL,True,False
+Meera Iyer,Data Science Intern,Python,False,True
+Meera Iyer,Data Science Intern,SQL,False,True
+Meera Iyer,Data Science Intern,Power BI,True,False
+Meera Iyer,Data Science Intern,Machine Learning,True,False
+Meera Iyer,Data Science Intern,NLP,True,False
+Meera Iyer,Data Science Intern,AWS,True,False
+Meera Iyer,Data Science Intern,Tableau,False,True
+Meera Iyer,Data Science Intern,Excel,False,True
+Meera Iyer,Data Science Intern,Git,False,True
+Meera Iyer,Data Science Intern,ETL,True,False
+Lakshmi Devi,ML Engineer,Python,True,False
+Lakshmi Devi,ML Engineer,SQL,False,True
+Lakshmi Devi,ML Engineer,Power BI,False,True
+Lakshmi Devi,ML Engineer,Machine Learning,True,False
+Lakshmi Devi,ML Engineer,NLP,False,True
+Lakshmi Devi,ML Engineer,AWS,True,False
+Lakshmi Devi,ML Engineer,Tableau,True,False
+Lakshmi Devi,ML Engineer,Excel,True,False
+Lakshmi Devi,ML Engineer,Git,True,False
+Lakshmi Devi,ML Engineer,ETL,True,False
+Pooja Nair,Data Analyst,Python,True,False
+Pooja Nair,Data Analyst,SQL,False,True
+Pooja Nair,Data Analyst,Power BI,True,False
+Pooja Nair,Data Analyst,Machine Learning,True,False
+Pooja Nair,Data Analyst,NLP,False,True
+Pooja Nair,Data Analyst,AWS,True,False
+Pooja Nair,Data Analyst,Tableau,True,False
+Pooja Nair,Data Analyst,Excel,False,True
+Pooja Nair,Data Analyst,Git,True,False
+Pooja Nair,Data Analyst,ETL,True,False
+Vijay Sharma,ML Engineer,Python,True,False
+Vijay Sharma,ML Engineer,SQL,True,False
+Vijay Sharma,ML Engineer,Power BI,False,True
+Vijay Sharma,ML Engineer,Machine Learning,False,True
+Vijay Sharma,ML Engineer,NLP,False,True
+Vijay Sharma,ML Engineer,AWS,False,True
+Vijay Sharma,ML Engineer,Tableau,False,True
+Vijay Sharma,ML Engineer,Excel,True,False
+Vijay Sharma,ML Engineer,Git,False,True
+Vijay Sharma,ML Engineer,ETL,True,False
+Anita Verma,BI Developer,Python,False,True
+Anita Verma,BI Developer,SQL,False,True
+Anita Verma,BI Developer,Power BI,True,False
+Anita Verma,BI Developer,Machine Learning,True,False
+Anita Verma,BI Developer,NLP,True,False
+Anita Verma,BI Developer,AWS,True,False
+Anita Verma,BI Developer,Tableau,False,True
+Anita Verma,BI Developer,Excel,False,True
+Anita Verma,BI Developer,Git,True,False
+Anita Verma,BI Developer,ETL,True,False
+Sunita Sharma,BI Developer,Python,True,False
+Sunita Sharma,BI Developer,SQL,True,False
+Sunita Sharma,BI Developer,Power BI,True,False
+Sunita Sharma,BI Developer,Machine Learning,True,False
+Sunita Sharma,BI Developer,NLP,False,True
+Sunita Sharma,BI Developer,AWS,True,False
+Sunita Sharma,BI Developer,Tableau,True,False
+Sunita Sharma,BI Developer,Excel,False,True
+Sunita Sharma,BI Developer,Git,True,False
+Sunita Sharma,BI Developer,ETL,False,True
+Ravi Sharma,Data Science Intern,Python,False,True
+Ravi Sharma,Data Science Intern,SQL,True,False
+Ravi Sharma,Data Science Intern,Power BI,True,False
+Ravi Sharma,Data Science Intern,Machine Learning,True,False
+Ravi Sharma,Data Science Intern,NLP,True,False
+Ravi Sharma,Data Science Intern,AWS,True,False
+Ravi Sharma,Data Science Intern,Tableau,False,True
+Ravi Sharma,Data Science Intern,Excel,True,False
+Ravi Sharma,Data Science Intern,Git,True,False
+Ravi Sharma,Data Science Intern,ETL,True,False
+Ravi Iyer,Data Analyst,Python,False,True
+Ravi Iyer,Data Analyst,SQL,True,False
+Ravi Iyer,Data Analyst,Power BI,True,False
+Ravi Iyer,Data Analyst,Machine Learning,True,False
+Ravi Iyer,Data Analyst,NLP,False,True
+Ravi Iyer,Data Analyst,AWS,True,False
+Ravi Iyer,Data Analyst,Tableau,False,True
+Ravi Iyer,Data Analyst,Excel,False,True
+Ravi Iyer,Data Analyst,Git,True,False
+Ravi Iyer,Data Analyst,ETL,False,True
